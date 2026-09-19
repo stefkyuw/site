@@ -1,0 +1,6 @@
+{
+  "name": "stefky",
+  "description": "Personal website for stefky - exploring hobbies, passion projects, and community help with Discord stefkyuw.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
